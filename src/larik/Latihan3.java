@@ -52,15 +52,15 @@ public class Latihan3 {
             System.out.println("|");
         }
 
-//      mengurangkan kedua matriks
+        // mengurangkan kedua matriks
         System.out.println();
-        System.out.println("Hasil penjumlahan Matriks");
+        System.out.println("Hasil pengurangan Matriks");
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 3; j++) {
                 hasil[i][j] = matriksPertama[i][j] - matriksKedua[i][j];
             }
         }
-//      menampilkan hasil pengurangan matriks
+        // menampilkan hasil pengurangan matriks
         System.out.println();
         for (int i = 0; i < 2; i++) {
             System.out.print("|");
