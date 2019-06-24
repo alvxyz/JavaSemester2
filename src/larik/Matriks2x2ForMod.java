@@ -31,12 +31,6 @@ public class Matriks2x2ForMod {
             System.out.println("|");
         }
 
-//        for (int i; i < matriks2x2.length; i++) {
-//            for (int j <matriks2x2[0].length;
-//            j++)
-//            System.out.print(" " + matriks2x2[i][j] + " ");
-//        }
-
         input.close();
     }
 }

@@ -32,7 +32,7 @@ public class Latihan2 {
 
         //      Menampilkan atau mencetak elemen matriks kedua ke layar console
         System.out.println();
-        System.out.println("Matiks Pertama");
+        System.out.println("Matriks Pertama");
         for (int i = 0; i < 2; i++) {
             System.out.print("|");
             for (int j = 0; j < 3; j++) {
@@ -43,7 +43,7 @@ public class Latihan2 {
 
         //      Menampilkan atau mencetak elemen matriks kedua ke layar console
         System.out.println();
-        System.out.println("Matiks Kedua");
+        System.out.println("Matriks Kedua");
         for (int i = 0; i < 2; i++) {
             System.out.print("|");
             for (int j = 0; j < 3; j++) {
