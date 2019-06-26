@@ -7,9 +7,9 @@ public class Latihan2 {
 
         Scanner input = new Scanner(System.in);
 
-        int matriksPertama[][] = new int[2][3];
-        int matriksKedua[][] = new int[2][3];
-        int hasil[][] = new int[2][3];
+        int[][] matriksPertama = new int[2][3];
+        int[][] matriksKedua = new int[2][3];
+        int[][] hasil = new int[2][3];
 
         //      Mengisi elemen matriks pertama
         System.out.println("Masukkan nilai matriks 1: ");
