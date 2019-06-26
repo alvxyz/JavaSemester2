@@ -13,8 +13,8 @@ public class Latihan2 {
 
         //      Mengisi elemen matriks pertama
         System.out.println("Masukkan nilai matriks 1: ");
-        for (int i = 0; i < 2; i++) {
-            for (int j = 0; j < 3; j++) {
+        for (int i = 0; i < matriksPertama.length; i++) {
+            for (int j = 0; j < matriksKedua[0].length; j++) {
                 System.out.print("Matriks[" + i + "][" + j + "]: ");
                 matriksPertama[i][j] = input.nextInt();
             }
@@ -23,8 +23,8 @@ public class Latihan2 {
         //      Mengisi elemen matriks kedua
         System.out.println();
         System.out.println("Masukkan nilai matriks 2: ");
-        for (int i = 0; i < 2; i++) {
-            for (int j = 0; j < 3; j++) {
+        for (int i = 0; i < matriksPertama.length; i++) {
+            for (int j = 0; j < matriksKedua[0].length; j++) {
                 System.out.print("Matriks[" + i + "][" + j + "]: ");
                 matriksKedua[i][j] = input.nextInt();
             }
@@ -33,9 +33,9 @@ public class Latihan2 {
         //      Menampilkan atau mencetak elemen matriks kedua ke layar console
         System.out.println();
         System.out.println("Matriks Pertama");
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < matriksPertama.length; i++) {
             System.out.print("|");
-            for (int j = 0; j < 3; j++) {
+            for (int j = 0; j < matriksKedua[0].length; j++) {
                 System.out.print(" " + matriksPertama[i][j] + " ");
             }
             System.out.println("|");
@@ -44,9 +44,9 @@ public class Latihan2 {
         //      Menampilkan atau mencetak elemen matriks kedua ke layar console
         System.out.println();
         System.out.println("Matriks Kedua");
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < matriksPertama.length; i++) {
             System.out.print("|");
-            for (int j = 0; j < 3; j++) {
+            for (int j = 0; j < matriksKedua[0].length; j++) {
                 System.out.print(" " + matriksKedua[i][j] + " ");
             }
             System.out.println("|");
@@ -55,16 +55,16 @@ public class Latihan2 {
 //      menjumlahkan kedua matriks
         System.out.println();
         System.out.println("Hasil penjumlahan Matriks");
-        for (int i = 0; i < 2; i++) {
-            for (int j = 0; j < 3; j++) {
+        for (int i = 0; i < matriksPertama.length; i++) {
+            for (int j = 0; j < matriksKedua[0].length; j++) {
                 hasil[i][j] = matriksPertama[i][j] + matriksKedua[i][j];
             }
         }
 //      menampilkan hasil penjumlahan matriks
         System.out.println();
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < matriksPertama.length; i++) {
             System.out.print("|");
-            for (int j = 0; j < 3; j++) {
+            for (int j = 0; j < matriksKedua[0].length; j++) {
                 System.out.print(" " + hasil[i][j] + " ");
             }
             System.out.println("|");
