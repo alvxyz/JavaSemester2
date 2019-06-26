@@ -16,7 +16,7 @@ public class Latihan1 {
 //      Meminta isi larik dari User
         int[] larik = new int[panjangLarik];
         for (int i = 0; i < larik.length; i++) {
-            System.out.print("Input Nilai Larik Ke-" + (i + 1) + ": ");
+            System.out.print("Input Nilai Larik Ke-" + i + ": ");
             larik[i] = input.nextInt();
         }
 
@@ -25,7 +25,7 @@ public class Latihan1 {
 //      Menampilkan isi larik
         System.out.println("Isi Larik:");
         for (int i = 0; i < larik.length; i++) {
-            System.out.println("Isi dalam larik ke-" + (i + 1) + ": " + larik[i]);
+            System.out.println("Isi dalam larik ke-" + (i) + ": " + larik[i]);
         }
 
         System.out.println();
@@ -36,8 +36,8 @@ public class Latihan1 {
 //      Melakukan pengurutan menggunakan bubble sort
         int temp;
 
-        for (int i = 0; i < larik.length; i++) {
-            for (int j = 1; j < larik.length - i; j++) {
+        for (int i = 0; i < larik.length; i++) { // Menentukan panjang fase
+            for (int j = 1; j < larik.length - i; j++) { // Menentukan jumlah pengecekan
                 if (larik[j - 1] > larik[j]) {
                     temp = larik[j - 1];
                     larik[j - 1] = larik[j];

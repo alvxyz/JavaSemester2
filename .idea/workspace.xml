@@ -4,12 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/percabangan/IfTahunKabisat.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f372eeeb-67fa-4be0-b35e-fa3d218c8e18" name="Default Changelist" comment="Membuat file Latihan 3">
+    <list default="true" id="f372eeeb-67fa-4be0-b35e-fa3d218c8e18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPBO/larik/Matriks2x2ForMod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPBO/larik/Matriks2x2ForMod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/larik/Latihan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/larik/Latihan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPBO/larik/Latihan2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPBO/larik/Latihan2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/larik/Latihan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/larik/Latihan1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/larik/Latihan4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/larik/Latihan4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/larik/Matriks2x2ForMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/larik/Matriks2x2ForMod.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/larik/Latihan1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+            <state relative-caret-position="360">
+              <caret line="39" column="88" selection-start-line="39" selection-start-column="88" selection-end-line="39" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/larik/Latihan2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+            <state relative-caret-position="1220">
+              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -44,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/larik/Latihan3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state relative-caret-position="1460">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
@@ -53,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/larik/Latihan4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+            <state relative-caret-position="160">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -132,13 +131,13 @@
         <option value="$PROJECT_DIR$/src/larik/DaftarNamaFor.java" />
         <option value="$PROJECT_DIR$/src/sorting/bubbleSort.java" />
         <option value="$PROJECT_DIR$/src/perulangan/ForEach.java" />
-        <option value="$PROJECT_DIR$/src/larik/Latihan1.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/larik/Latihan3.java" />
         <option value="$PROJECT_DIR$/src/perulangan/BelajarNestedLoop.java" />
-        <option value="$PROJECT_DIR$/src/larik/Latihan4.java" />
         <option value="$PROJECT_DIR$/src/larik/Matriks2x2ForMod.java" />
         <option value="$PROJECT_DIR$/src/larik/Latihan2.java" />
+        <option value="$PROJECT_DIR$/src/larik/Latihan4.java" />
+        <option value="$PROJECT_DIR$/src/larik/Latihan1.java" />
       </list>
     </option>
   </component>
@@ -148,9 +147,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="883" />
-    <option name="width" value="1037" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="883" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -184,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Latihan2">
+  <component name="RunManager" selected="Application.Latihan1">
     <configuration name="BelajarNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="perulangan.BelajarNestedLoop" />
       <module name="PPBO" />
@@ -252,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Latihan2" />
         <item itemvalue="Application.Latihan1" />
         <item itemvalue="Application.Latihan4" />
-        <item itemvalue="Application.BelajarNestedLoop" />
         <item itemvalue="Application.Latihan3" />
+        <item itemvalue="Application.Latihan2" />
+        <item itemvalue="Application.BelajarNestedLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -314,14 +312,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561173000513</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Manage larik">
+      <created>1561415778992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561415778992</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="883" y="0" width="1037" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.34594882" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34507897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +343,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.26702508" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32988507" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.2551724" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4978678" weight="0.587822" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4978678" weight="0.94623655" />
       <window_info anchor="right" id="Copy/Paste" order="0" weight="0.3296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -427,7 +432,8 @@
     <MESSAGE value="Mengubah kata penjumlahan" />
     <MESSAGE value="4" />
     <MESSAGE value="Mempelajari nested loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mempelajari nested loop" />
+    <MESSAGE value="Manage larik" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manage larik" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -756,27 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/larik/Latihan1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/larik/Latihan3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/larik/Latihan4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/perulangan/BelajarNestedLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -784,10 +769,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/larik/Latihan4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/larik/Latihan2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        <state relative-caret-position="1220">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/larik/Latihan3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/larik/Latihan1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="88" selection-start-line="39" selection-start-column="88" selection-end-line="39" selection-end-column="88" />
         </state>
       </provider>
     </entry>

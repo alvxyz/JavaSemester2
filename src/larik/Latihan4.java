@@ -62,10 +62,7 @@ public class Latihan4 {
                 }
             }
         }
-        System.out.println(hasil[0][0]); // 14
-        System.out.println(hasil[0][1]); // 12
-        System.out.println(hasil[1][0]); // 13
-        System.out.println(hasil[1][1]); // 19
+
 
         // menampilkan hasil perkalian matriks
         System.out.println();
