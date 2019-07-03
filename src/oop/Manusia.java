@@ -13,30 +13,46 @@ public class Manusia {
     // default konstraktor     public Manusia()
 
 
-    // konstruktor
+    // konstruktor 1
 
     public Manusia(String nama, int umur, int beratBadan, int tinggiBadan) {
         this.nama = nama;
         this.umur = umur;
         this.tinggiBadan = tinggiBadan;
         this.beratBadan = beratBadan;
+
+        // this mengacu pada objek (Instance member)
+        // disampingnya local member
+    }
+
+    // konstruktor 2
+    public Manusia(String nama, int umur) {
+        this.nama = nama;
+        this.umur = umur;
+
+    }
+
+    // konstruktor 3
+    public Manusia(String nama) {
+        this.nama = nama;
+
     }
 
     // method
     void berjalan() {
-        System.out.println("Berjalan");
+        System.out.println(nama + " Berjalan");
     }
 
     void berlari() {
-        System.out.println("Berlari");
+        System.out.println(nama + " Berlari");
     }
 
     void makan() {
-        System.out.println("Makan");
+        System.out.println(nama + " Makan");
     }
 
     void minum() {
-        System.out.println("Minum");
+        System.out.println(nama + " Minum");
     }
 
 }
