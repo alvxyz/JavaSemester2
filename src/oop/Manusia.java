@@ -4,41 +4,39 @@ public class Manusia {
 
     // variabel
 
-    String nama;
-    int umur;
-    int beratBadan;
-    int tinggiBadan;
+    public String nama;
+    public int umur;
+    public int beratBadan;
+    public int tinggiBadan;
 
 
     // default konstraktor
-    public Manusia() {
+//    public Manusia() {
 
-    }
+//    }
 
     public Manusia(String nama, int umur, int beratBadan, int tinggiBadan) {
         this.nama = nama;
         this.umur = umur;
-        this.beratBadan = beratBadan;
         this.tinggiBadan = tinggiBadan;
+        this.beratBadan = beratBadan;
     }
 
     // method
     void berjalan() {
-
+        System.out.println("Berjalan");
     }
 
     void berlari() {
+        System.out.println("Berlari");
     }
 
     void makan() {
+        System.out.println("Makan");
     }
 
     void minum() {
-    }
-
-    // method main
-    public static void main(String[] args) {
-        // tidak akan tampil apa-apa dikarenakan tidak ada statment
+        System.out.println("Minum");
     }
 
 }
