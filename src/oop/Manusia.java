@@ -10,10 +10,10 @@ public class Manusia {
     public int tinggiBadan;
 
 
-    // default konstraktor
-//    public Manusia() {
+    // default konstraktor     public Manusia()
 
-//    }
+
+    // konstruktor
 
     public Manusia(String nama, int umur, int beratBadan, int tinggiBadan) {
         this.nama = nama;
