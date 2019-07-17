@@ -79,5 +79,8 @@ public class MainManusia {
         orang4.berlari();
         orang4.makan();
         orang4.minum();
+
+
+
     }
 }
