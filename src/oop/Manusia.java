@@ -10,7 +10,13 @@ public class Manusia {
     public int tinggiBadan;
 
 
-    // default konstraktor     public Manusia()
+    // default konstraktor
+    public Manusia() {
+        nama = "Andi";
+        umur = 19;
+        beratBadan = 67;
+        tinggiBadan = 199;
+    }
 
 
     // konstruktor 1

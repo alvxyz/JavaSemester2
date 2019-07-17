@@ -18,15 +18,15 @@ public class AccessModifier {
     }
 
     public void showB() {
-        System.out.println("Nilai a: " + b);
+        System.out.println("Nilai b: " + b);
     }
 
-    public void showC() {
-        System.out.println("Nilai a: " + c);
+    private void showC() {
+        System.out.println("Nilai c: " + c);
     }
 
-    public void showD() {
-        System.out.println("Nilai a: " + d);
+    void showD() {
+        System.out.println("Nilai d: " + d);
     }
 
 }
