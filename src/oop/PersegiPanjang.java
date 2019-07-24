@@ -2,22 +2,27 @@ package oop;
 
 public class PersegiPanjang {
 
-    public double lebar; // instance memmber
-    public double panjang; // instance memmber
-    public double luas; // instance memmber
-    public float keliling; // instance memkber
-    static int id = 0; // ini adalah kelas member
+    private double lebar; // instance memmber
+    private double panjang; // instance memmber
+    private double luas; // instance memmber
+    private float keliling; // instance memkber
+    private int id = 0; // ini adalah instance member
+
+    // konstruktor default tidak memiliki parameternya
 
     public PersegiPanjang(double lebar, double panjang) {
         this.lebar = lebar;
         this.panjang = panjang;
-        hitungLuas();
         id++;
     }
 
-    void hitungLuas() {
+    private void hitungLuas() {
         luas = panjang * lebar;
 
+    }
+
+    private void hitungKeliling() {
+        keliling = (float) (2 * (panjang + lebar));
     }
 
 }

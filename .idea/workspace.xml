@@ -7,9 +7,6 @@
     <list default="true" id="f372eeeb-67fa-4be0-b35e-fa3d218c8e18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oop/PersegiPanjang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/PersegiPanjang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/pewarisan/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pewarisan/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +59,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop/PersegiPanjang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="160">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -412,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563340262243</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1563929244508</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1563929244508</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -926,8 +934,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/PersegiPanjang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="160">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
