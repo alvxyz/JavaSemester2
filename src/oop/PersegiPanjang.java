@@ -21,15 +21,19 @@ public class PersegiPanjang {
         this.panjang = panjang;
     }
 
-    public float getPanjang() {
+    public float getPanjang() { // getter panjang
         return panjang;
     }
 
-    public void setLebar(float lebar) {
+    public void setLebar(float lebar) {     // setter panjang
         this.lebar = lebar;
     }
 
-    public float getLuas() {
+    public float getLebar() {       // getter lebar
+        return lebar;
+    }
+
+    public float getLuas() {    // getter luas
         hitungLuas();
         return luas;
     }

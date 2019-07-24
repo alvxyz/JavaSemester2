@@ -3,11 +3,23 @@ package oop;
 public class MainPersegi {
     public static void main(String[] args) {
 
-        PersegiPanjang persegiPanjang = new PersegiPanjang(10, 5);
+        PersegiPanjang persegiPanjang = new PersegiPanjang(3, 5);
 
-        System.out.println(persegiPanjang.getKeliling());
-        persegiPanjang.getLuas();
+        System.out.println("===OBJEK PERSEGI PANJANG===");
+        System.out.println();
+        System.out.println("Panjang " + persegiPanjang.getPanjang());
+        System.out.println("Lebar: " + persegiPanjang.getLebar());
+        System.out.println("Luas: " + persegiPanjang.getLuas());
+        System.out.println("Keliling: " + persegiPanjang.getKeliling());
 
+        persegiPanjang.setPanjang(5.3f);
+        persegiPanjang.setLebar(2.4f);
+
+        System.out.println();
+        System.out.println("Panjang " + persegiPanjang.getPanjang());
+        System.out.println("Lebar: " + persegiPanjang.getLebar());
+        System.out.println("Luas: " + persegiPanjang.getLuas());
+        System.out.println("Keliling: " + persegiPanjang.getKeliling());
 
 
 
@@ -80,10 +92,6 @@ public class MainPersegi {
 //        // instance member (tidak menggunakan static)
 //        System.out.println("Panjang persegi 1: " + persegi1.panjang);
 //        System.out.println("Panjang persegi 2: " + persegi2.panjang);
-
-
-
-
 
 //        System.out.println();
 //        System.out.println("Luas persegi panjang: " + persegi1.getLuas());
