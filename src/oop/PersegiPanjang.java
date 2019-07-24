@@ -5,6 +5,7 @@ public class PersegiPanjang {
     public double lebar; // instance memmber
     public double panjang; // instance memmber
     public double luas; // instance memmber
+    public float keliling; // instance memkber
     static int id = 0; // ini adalah kelas member
 
     public PersegiPanjang(double lebar, double panjang) {

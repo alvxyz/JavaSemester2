@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f372eeeb-67fa-4be0-b35e-fa3d218c8e18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/Mahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/MainMahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/MainPegawai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Pegawai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/accessmodifier/ChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/accessmodifier/MainAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/accessmodifier/defaults/MainAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pewarisan/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Manusia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Manusia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/accessmodifier/AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/accessmodifier/AccessModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/PersegiPanjang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/PersegiPanjang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/pewarisan/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pewarisan/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="220">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -44,21 +35,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/MainClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oop/MainPersegi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/MainClass.java">
+        <entry file="file://$PROJECT_DIR$/src/oop/PersegiPanjang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="140">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -122,7 +127,6 @@
         <option value="$PROJECT_DIR$/src/larik/Latihan2.java" />
         <option value="$PROJECT_DIR$/src/perulangan/BelajarNestedLoop.java" />
         <option value="$PROJECT_DIR$/src/oop/MainPersegi.java" />
-        <option value="$PROJECT_DIR$/src/oop/PersegiPanjang.java" />
         <option value="$PROJECT_DIR$/src/oop/accessmodifier/MainAccessModifier.java" />
         <option value="$PROJECT_DIR$/src/oop/accessmodifier/defaults/MainAccessModifier.java" />
         <option value="$PROJECT_DIR$/src/oop/accessmodifier/AccessModifier.java" />
@@ -137,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java" />
         <option value="$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java" />
         <option value="$PROJECT_DIR$/src/oop/pewarisan/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/oop/PersegiPanjang.java" />
       </list>
     </option>
   </component>
@@ -159,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,17 +183,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PPBO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PPBO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="pewarisan" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainPegawai">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="MainAccessModifier (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.accessmodifier.defaults.MainAccessModifier" />
       <module name="PPBO" />
@@ -234,6 +232,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop.accessmodifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.pewarisan.MainClass" />
+      <module name="PPBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.pewarisan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,26 +278,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPersegi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.MainPersegi" />
-      <module name="PPBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.MainPegawai" />
         <item itemvalue="Application.MainMahasiswa" />
         <item itemvalue="Application.MainAccessModifier (1)" />
         <item itemvalue="Application.MainAccessModifier" />
-        <item itemvalue="Application.MainPersegi" />
       </list>
     </recent_temporary>
   </component>
@@ -407,14 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563326720188</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1563340262243</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563340262243</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,7 +436,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.26702508" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32988507" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.2551724" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4978678" weight="0.94623655" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4978678" weight="0.5430108" />
       <window_info anchor="right" id="Copy/Paste" order="0" weight="0.3296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -774,20 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/MainPersegi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/PersegiPanjang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/accessmodifier/defaults/MainAccessModifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -907,26 +898,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/ParrentClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/ChildClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="80">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/pewarisan/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/MainPersegi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/PersegiPanjang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,7 @@ public class ParrentClass {
 
     public ParrentClass() {
 
-        System.out.println("Construktor dari ParentClass");
+        System.out.println("Constructor dari ParentClass");
 
     }
 }
