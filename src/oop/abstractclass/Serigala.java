@@ -1,9 +1,8 @@
-package oop.polimorfisme;
+package oop.abstractclass;
 
 public class Serigala extends Hewan {
-
     @Override
     void bersuara() {
-        System.out.println("Auuuuuuuu");
+        System.out.println("Aaauuuuuu");
     }
 }

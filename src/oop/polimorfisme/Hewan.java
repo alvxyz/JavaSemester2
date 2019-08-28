@@ -1,6 +1,6 @@
 package oop.polimorfisme;
 
-public class Hewan {
+public abstract class Hewan {
     private int usia, beratBadan;
 
     void bersuara() {
