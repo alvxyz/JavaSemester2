@@ -7,6 +7,9 @@ public class MainClass {
         SuatuKelas suatuKelas = new SuatuKelas();
 
         suatuKelas.methodA();
+//        suatuKelas.methodB();
+
+
         try {
             suatuKelas.methodB();
         } catch (IOException e) {
